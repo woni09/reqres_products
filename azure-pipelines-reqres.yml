@@ -145,3 +145,6 @@ stages:
                     app: $(imageRepository)
               secretType: 'dockerRegistry'
               containerRegistryType: 'Azure Container Registry'
+
+
+              
